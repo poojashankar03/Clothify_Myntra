@@ -63,8 +63,5 @@ Welcome to Clothify Myntra, your online destination for all things fashionable! 
    - Rate products and leave reviews.
    - Share your experience with others.
 
-## Deployed ID
-The Clothify Myntra project is live at [https://clothify-myntra.herokuapp.com/](https://clothify-myntra.herokuapp.com/)
-
 ## Enjoy Shopping! 🎉
 Experience the world of fashion at Clothify Myntra! Your one-stop-shop for style.
